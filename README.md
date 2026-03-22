@@ -33,11 +33,6 @@ ______________________________
 4. Flash `sys_helper.zip`
 5. Reboot the device
 
-______________________________
-
- 📋 Requirements
-- Rooted device (Magisk / KernelSU)
-- Android 8 or higher (Insufficient data to verify full compatibility across all versions)
 
 ______________________________
 
