@@ -15,7 +15,6 @@ ______________________________
 - RAM optimization → reduces app reloads
 - I/O tuning → faster read/write speeds
 - Lower temperature under heavy load (gaming / mining)
-- Balanced battery optimization (no aggressive overclocking)
 
 ______________________________
 
