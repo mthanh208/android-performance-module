@@ -12,9 +12,9 @@ ______________________________
  🚀 Key Features
 - CPU scheduler optimization → improves responsiveness
 - Reduced system latency (smoother UI)
-- RAM optimization → reduces app reloads
-- I/O tuning → faster read/write speeds
-- Lower temperature under heavy load (gaming / mining)
+- RAM optimization 
+- I/O tuning
+
 
 ______________________________
 
